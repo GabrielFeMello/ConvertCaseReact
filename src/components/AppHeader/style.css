@@ -1,0 +1,7 @@
+.container{
+  width: 80%;
+  margin: auto;
+  display: block;
+  min-width: 310px;
+  padding:25px;
+}
